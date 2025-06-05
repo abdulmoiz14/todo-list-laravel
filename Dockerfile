@@ -16,6 +16,9 @@ RUN php artisan key:generate || true
 
 RUN php artisan migrate --seed
 
+RUN php artisan config:cache \
+    && php artisan route:cache \
+    && php artisan view:cache
+
 RUN chown -R www-data:www-data /var/www \
     && chmod -R 775 storage bootstrap/cache
-
