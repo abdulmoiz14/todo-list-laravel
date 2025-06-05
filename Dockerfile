@@ -12,5 +12,10 @@ COPY . .
 
 RUN composer install --no-interaction --prefer-dist --optimize-autoloader
 
+RUN php artisan key:generate || true
+
+RUN php artisan migrate --seed
+
 RUN chown -R www-data:www-data /var/www \
     && chmod -R 775 storage bootstrap/cache
+
