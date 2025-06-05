@@ -12,13 +12,8 @@ COPY . .
 
 RUN composer install --no-interaction --prefer-dist --optimize-autoloader
 
-RUN php artisan key:generate || true
+COPY docker-entrypoint.sh /usr/local/bin/entrypoint.sh
+RUN chmod +x /usr/local/bin/entrypoint.sh
 
-RUN php artisan migrate --seed
-
-RUN php artisan config:cache \
-    && php artisan route:cache \
-    && php artisan view:cache
-
-RUN chown -R www-data:www-data /var/www \
-    && chmod -R 775 storage bootstrap/cache
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+CMD ["php-fpm"]
