@@ -20,7 +20,9 @@ The To-Do List App includes the following features:
 - **Data Persistence**: Tasks and user information are stored in a MySQL or SQLite database.
 - **Secure Access**: Basic security measures restrict users to managing only their own tasks.
 - **Error Handling**: Errors are handled gracefully with user-friendly messages.
-- **Testing**: Unit tests help ensure code reliability.
+- **Testing**: Unit tests help ensure code reliability.dsfsdfs
+
+- 
 
 ## Technologies Used
 
