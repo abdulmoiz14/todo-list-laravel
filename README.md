@@ -18,11 +18,10 @@ sdfsdf
   - **Delete Tasks**: Users can remove tasks.
 - **Validation**: Ensures tasks have valid titles and descriptions.
 - **Data Persistence**: Tasks and user information are stored in a MySQL or SQLite database.
-- **Secure Access**: Basic security measures restrict users to managing only their own tasks.
+- **Secure Access**: Basic security measures restrict users to managing only thfdgfdgfdeir own tasks.
 - **Error Handling**: Errors are handled gracefully with user-friendly messages.
 - **Testing**: Unit tests help ensure code reliability.dsfsdfs
 
-- 
 
 ## Technologies Used
 
