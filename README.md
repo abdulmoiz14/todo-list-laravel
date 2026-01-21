@@ -22,6 +22,8 @@ The To-Do List App includes the following features:
 - **Error Handling**: Errors are handled gracefully with user-friendly messages.
 - **Testing**: Unit tests help ensure code reliability.
 
+- 
+
 ## Technologies Used
 
 - **Laravel**: Backend framework for routing, authentication, and MVC structure.
