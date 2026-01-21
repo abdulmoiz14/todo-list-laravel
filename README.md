@@ -9,8 +9,8 @@ This is a simple To-Do List application built using **Laravel 11.3** and **PHP 8
 ## Features
 
 The To-Do List App includes the following features:
-
-- **User Authentication**: Basic user registration and login functionalities (if using Laravel Breeze or Jetstream, these will be pre-configured).
+sdfsdf
+- **User Authentication**: Basic user registration and login functionalities (if using Laravel Breeze or Jdssdfsdfetstream, these will be pre-configured).
 - **Task Management**:
   - **Create Tasks**: Users can add new tasks with a title and description.
   - **List Tasks**: Users can view a list of all their tasks.
