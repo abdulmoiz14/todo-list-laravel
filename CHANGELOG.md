@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/abdulmoiz14/todo-list-laravel/compare/v2.1.0...v3.0.0) (2026-01-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* break changing ([#8](https://github.com/abdulmoiz14/todo-list-laravel/issues/8))
+
+### Features
+
+* break changing ([#8](https://github.com/abdulmoiz14/todo-list-laravel/issues/8)) ([41b94da](https://github.com/abdulmoiz14/todo-list-laravel/commit/41b94dab4b8032cc3699565f4da160c2f1d8addf))
+
 ## [2.1.0](https://github.com/abdulmoiz14/todo-list-laravel/compare/v2.0.0...v2.1.0) (2026-01-21)
 
 
