@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.1](https://github.com/abdulmoiz14/todo-list-laravel/compare/v3.0.0...v3.0.1) (2026-01-22)
+
+
+### Bug Fixes
+
+* branch4 ([#11](https://github.com/abdulmoiz14/todo-list-laravel/issues/11)) ([2f6cf5a](https://github.com/abdulmoiz14/todo-list-laravel/commit/2f6cf5aa203749898fa363663dbaa7b2b03b5c95))
+* branch4 ([#11](https://github.com/abdulmoiz14/todo-list-laravel/issues/11)) ([ed7796e](https://github.com/abdulmoiz14/todo-list-laravel/commit/ed7796e2edefdd56800ee7794d1dfc9b0f758ac8))
+
 ## [3.0.0](https://github.com/abdulmoiz14/todo-list-laravel/compare/v2.1.0...v3.0.0) (2026-01-21)
 
 
