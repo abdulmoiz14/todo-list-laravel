@@ -7,7 +7,7 @@ This is a simple To-Do List application built using **Laravel 11.3** and **PHP 8
 
 
 ## Features
-
+fghgfhgfhdgfhf
 The To-Do List App includes the following features:
 sdfsdf
 - **User Authentication**: Basic user registration and login functionalities (if using Laravel Breeze or Jdssdfsdfetstream, these will be pre-configured).
@@ -18,7 +18,7 @@ sdfsdf
   - **Delete Tasks**: Users can remove tasks.
 - **Validation**: Ensures tasks have valid titles and descriptions.
 - **Data Persistence**: Tasks and user information are stored in a MySQL or SQLite database.
-- **Secure Access**: Basic security measures restrict users to managing only thfdgfdgfdeir own tasks.
+- **Secure Access**: Basic security measures restrict users ttghgfhgfhgfdo managing only thfdgfdgfdeir own tasks.
 - **Error Handling**: Errors are handled gracefully with user-friendly messages.
 - **Testing**: Unit tests help ensure code reliability.dsfsdfs
 askjdfbsads
